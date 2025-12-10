@@ -1,0 +1,10 @@
+Implement a story-style media viewer for drone footage
+
+Remove custom CSS styling and integrate a Streamlit-native full-page story mode by replacing page content, using Streamlit's native components for controls, and displaying media with `st.image` and `st.video`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 73244806-dd0e-413c-8e6e-65e7b8c3b1ef
+Replit-Commit-Checkpoint-Type: intermediate_checkpoint
+Replit-Commit-Event-Id: a5860e94-66ec-427b-9b30-92e1400e29f9
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/de129e7f-e557-4c8c-b55c-21519dd3e77f/73244806-dd0e-413c-8e6e-65e7b8c3b1ef/EoGkVAw
+Replit-Helium-Checkpoint-Created: true
